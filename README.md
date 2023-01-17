@@ -1,8 +1,8 @@
 # React-To-Do
 
-A basic React JS ToDo application. 
+A simple React JS ToDo application 
 
-What I have learned"
+What I have learned:
 - useState() hook
 - useRef() hook
 - useEffect() hook
